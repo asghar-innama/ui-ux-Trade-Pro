@@ -19,7 +19,8 @@
     "react-dom": "^18",
     "react-google-charts": "^4.0.7",
     "tailwind-merge": "^2.6.0",
-    "tailwindcss-animate": "^1.0.7"
+    "tailwindcss-animate": "^1.0.7",
+    "sharp": "v0.33.1"
   },
   "devDependencies": {
     "@types/node": "^20",
